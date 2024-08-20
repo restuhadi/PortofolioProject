@@ -1,4 +1,4 @@
---Comparative Analysis of City Populations for 2023 and 2024
+--Comparative Analysis of City Populations 2023 and 2024
 --Country Table
 CREATE TABLE country(
 	Serial_Number INT PRIMARY KEY,
